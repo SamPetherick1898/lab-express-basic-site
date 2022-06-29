@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+p{
+    text-align: justify;
+}
+
+body{
+    color: antiquewhite;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.ironcatImg{
+    width: 1200px;
+    height: 800px;
+    padding-left: 19%;
+}
+.michi{
+    padding-left: 40%; 
+}
+
+.win{
+    padding-left: 28%; 
+}
+
+.img1{
+width: 350px;
+height: 200px;
+}
+
+.img2{
+width: 350px;
+height: 200px;
+}
+
+.img3{
+    width: 350px;
+    height: 200px; 
+}
